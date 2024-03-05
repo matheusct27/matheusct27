@@ -24,6 +24,5 @@
   <a href="https://steamcommunity.com/profiles/76561199080597110/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/mathrm27" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/matheusct27/matheusct27/blob/output/github-contribution-grid-snake.svg)
 </div>
 
