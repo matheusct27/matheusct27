@@ -29,13 +29,3 @@
 
 </div>
 
-<br/>
-<hr/>
-
-<div align="left">
-  <h2> Contribuições </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/matheusct27/matheusct27/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
