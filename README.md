@@ -3,14 +3,11 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&left=true&width=500&height=70&duration=4000&lines=Opa+👋;+eu+sou+o;Matheus!;" />
 </h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right">
+
 
 - 🔭 Atualmente curso Informática no Instituto Federal do Ceará
 - 🌱 Estudando Python, Java, JavaScript
 - ⚡ Apaixonado por esportes e jogos online
-
-##
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusct27&show_icons=true&theme=dracula&count_private=true"/><br>
