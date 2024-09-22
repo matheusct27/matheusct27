@@ -1,13 +1,13 @@
 
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&left=true&width=500&height=70&duration=4000&lines=Opa+👋;+eu+sou+o;Matheus!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&left=true&width=500&height=70&duration=4000&lines=Hey+👋;+I'm+Matheus!;" />
 </h1>
 
 
-- 🔭 Atualmente curso Informática no Instituto Federal do Ceará
-- 🌱 Estudando Python, Java, JavaScript
-- ⚡ Apaixonado por esportes e jogos online
+- 🔭 currently studying informatics at IFCE(Instituto Federal do Ceará)
+- 🌱 studying Python, Java, JavaScript
+- ⚡ I love Sports and Games
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusct27&show_icons=true&theme=dracula&count_private=true"/><br>
