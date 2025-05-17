@@ -5,7 +5,7 @@
 </h1>
 
 
-- 🔭 currently studying informatics at IFCE(Instituto Federal do Ceará)
+- 🔭 currently taking informatics at IFCE(Instituto Federal do Ceará)
 - 🌱 studying Python, Java, JavaScript and Swift
 - ⚡ I love Sports and Games
 
