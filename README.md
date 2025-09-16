@@ -11,7 +11,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusct27&show_icons=true&theme=dracula&count_private=true"/><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusct27&theme=dracula"/><br>
   <img height="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusct27&layout=compact&langs_count=16&theme=dracula"/>
 </a>
 
